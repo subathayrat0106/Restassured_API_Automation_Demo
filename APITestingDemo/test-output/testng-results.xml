@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8129" started-at="2019-05-17T03:02:53Z" finished-at="2019-05-17T03:03:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8129" started-at="2019-05-17T03:02:53Z" finished-at="2019-05-17T03:03:01Z">
+      <class name="apiproject_testcase.UserAndCommentRouteTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="setUp" is-config="true" duration-ms="511" started-at="2019-05-17T03:02:53Z" finished-at="2019-05-17T03:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="baseUrl" is-config="true" duration-ms="306" started-at="2019-05-17T03:02:54Z" finished-at="2019-05-17T03:02:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="createAUser()[pri:1, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="createAUser" duration-ms="2037" started-at="2019-05-17T03:02:54Z" finished-at="2019-05-17T03:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAUser -->
+        <test-method status="PASS" signature="getAllUser()[pri:2, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="getAllUser" duration-ms="893" started-at="2019-05-17T03:02:56Z" finished-at="2019-05-17T03:02:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllUser -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="baseUrl" is-config="true" duration-ms="0" started-at="2019-05-17T03:02:56Z" finished-at="2019-05-17T03:02:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="baseUrl" is-config="true" duration-ms="1" started-at="2019-05-17T03:02:57Z" finished-at="2019-05-17T03:02:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="updateAUser()[pri:3, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="updateAUser" duration-ms="862" started-at="2019-05-17T03:02:57Z" finished-at="2019-05-17T03:02:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateAUser -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="baseUrl" is-config="true" duration-ms="1" started-at="2019-05-17T03:02:58Z" finished-at="2019-05-17T03:02:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="postAcommentToAUser()[pri:4, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="postAcommentToAUser" duration-ms="896" started-at="2019-05-17T03:02:58Z" finished-at="2019-05-17T03:02:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postAcommentToAUser -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="baseUrl" is-config="true" duration-ms="0" started-at="2019-05-17T03:02:59Z" finished-at="2019-05-17T03:02:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="updateACommentToAUser()[pri:5, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="updateACommentToAUser" duration-ms="932" started-at="2019-05-17T03:02:59Z" finished-at="2019-05-17T03:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateACommentToAUser -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="baseUrl" is-config="true" duration-ms="0" started-at="2019-05-17T03:03:00Z" finished-at="2019-05-17T03:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="deleteAcommentToUser()[pri:6, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="deleteAcommentToUser" duration-ms="880" started-at="2019-05-17T03:03:00Z" finished-at="2019-05-17T03:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAcommentToUser -->
+        <test-method status="PASS" signature="baseUrl()[pri:0, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="baseUrl" is-config="true" duration-ms="1" started-at="2019-05-17T03:03:00Z" finished-at="2019-05-17T03:03:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseUrl -->
+        <test-method status="PASS" signature="deleteAUser()[pri:7, instance:apiproject_testcase.UserAndCommentRouteTest@26be92ad]" name="deleteAUser" duration-ms="772" started-at="2019-05-17T03:03:00Z" finished-at="2019-05-17T03:03:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAUser -->
+      </class> <!-- apiproject_testcase.UserAndCommentRouteTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
